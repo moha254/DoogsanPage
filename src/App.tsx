@@ -82,7 +82,7 @@ function App() {
             <span>BBS MALL, EASTLEIGH, NAIROBI</span>
           </div>
           <div className="mt-6">
-            <img src="/img/LOGO-DOOGSAN.jpeg" alt="Doogsan Enterprise Logo" className="h-24 mx-auto" />
+            <img src="/LOGO-DOOGSAN.jpeg" alt="Doogsan Enterprise Logo" className="h-24 mx-auto" />
           </div>
         </div>
       </div>
