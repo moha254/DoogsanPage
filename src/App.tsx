@@ -81,10 +81,7 @@ function App() {
             <MapPin size={20} className="text-blue-600" />
             <span>BBS MALL, EASTLEIGH, NAIROBI</span>
           </div>
-          <div className="mt-6">
-          <img src="/img/LOGO-DOOGSAN.jpeg" alt="Doogsan Enterprise Logo" className="h-24 mx-auto" />
-
-          </div>
+         
         </div>
       </div>
     </div>
